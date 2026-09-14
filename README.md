@@ -1,7 +1,7 @@
 
   # CTIS
 
-This is a draft for CTIS 
+This is a draft for CTIS's frontend.
 
   ## Running the code
 
